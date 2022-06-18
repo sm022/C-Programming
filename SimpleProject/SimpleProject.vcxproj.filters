@@ -24,7 +24,10 @@
     <ClCompile Include="Hello.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Ex.02-2.c">
+    <ClCompile Include="Ex.02-2_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex.02-2_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
