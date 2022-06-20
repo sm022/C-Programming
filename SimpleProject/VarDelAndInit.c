@@ -13,3 +13,5 @@ int main(void)
 	printf("num3: %d, num4: %d \n", num3, num4);
 	return 0;
 }
+
+//문제가 발생했는데 원래 안되는건지 잘 모르겠음
